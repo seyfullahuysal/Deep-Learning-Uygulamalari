@@ -1,4 +1,3 @@
-#https://www.symbolengine.com/sunidimag/2017/08/04/101-Ilk-yapay-sinir-agimiz-Dense-layer/
 from keras.layers import Dense
 from keras.models import Sequential
 import random
